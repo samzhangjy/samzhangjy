@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sam Zhang
 
-- 🔭 I’m currently working on a web spider that spides baidu
+- 🔭 I’m currently working on a web spider that crawls baidu
 - 🌱 I’m currently learning Node.js, Vue, Python and more
 - 📫 How to reach me:
   - Email: samzhang951@outlook.com
