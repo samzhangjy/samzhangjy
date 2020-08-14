@@ -6,5 +6,5 @@
   - Email: samzhang951@outlook.com
   - GitHub: <https://github.com/samzhangjy>
   - GitLab: <https://gitlab.com/samzhangjy>
-  - Zhihu: <https://www.zhihu.com/people/zhang-shou-wen-11>
-- ⚡ Fun fact: secret...
+  - Zhihu: <https://www.zhihu.com/people/samzhangjy>
+- ⚡ Fun fact: I'm younger than you thought!
