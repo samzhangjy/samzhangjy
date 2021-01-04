@@ -8,3 +8,5 @@
   - GitLab: <https://gitlab.com/samzhangjy>
   - Zhihu: <https://www.zhihu.com/people/samzhangjy>
 - ⚡ Fun fact: I'm younger than you thought!
+
+[![samzhangjy's github stats](https://github-readme-stats.vercel.app/api?username=samzhangjy)](https://github.com/samzhangjy)
