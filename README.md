@@ -9,4 +9,4 @@
   - Zhihu: <https://www.zhihu.com/people/samzhangjy>
 - ⚡ Fun fact: I'm younger than you thought!
 
-[![samzhangjy's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)](https://github.com/samzhangjy)
+[![samzhangjy's github stats](https://github-readme-stats.vercel.app/api?username=samzhangjy&show_icons=true&theme=dracula)](https://github.com/samzhangjy)
