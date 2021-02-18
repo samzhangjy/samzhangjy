@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sam Zhang
 
-- 🔭  I’m currently working on [BaiduSpider](https://github.com/BaiduSpider/BaiduSpider)
+- 🔭  I’m currently working on [BaiduSpider](https://github.com/BaiduSpider/BaiduSpider), a spider to crawl [Baidu](https://www.baidu.com)
 - 🌱  I’m currently learning Vue, Scrapy, Raspberry-Pi and more
 - 📫  How to reach me:
   - Email: samzhang951@outlook.com
