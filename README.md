@@ -2,7 +2,7 @@
 
 - 🔭  I’m currently working on [BaiduSpider](https://github.com/BaiduSpider/BaiduSpider)
 - 🌱  I’m currently learning Vue, Scrapy, Raspberry-Pi and more
-- 📫  How to reach me
+- 📫  How to reach me:
   - Email: samzhang951@outlook.com
   - GitHub: <https://github.com/samzhangjy>
   - GitLab: <https://gitlab.com/samzhangjy>
