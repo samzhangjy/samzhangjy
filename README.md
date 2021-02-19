@@ -8,6 +8,7 @@
   - GitLab: <https://gitlab.com/samzhangjy>
   - Zhihu: <https://www.zhihu.com/people/samzhangjy>
   - Luogu: <https://www.luogu.com.cn/user/235561>
+  - DEV.to: <https://dev.to/samzhangjy>
 - ⚡  Fun fact: I'm younger than you thought!
 
 Feel free to send me Emails!
