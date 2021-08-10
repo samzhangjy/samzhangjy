@@ -15,4 +15,10 @@ Feel free to send me Emails!
 
 P.S.: I'm still a student, though... So I might not be avilable at work days.
 
+#### Ad
+
+ErHa Studio is a studio for teens who wanted a platform to learn programming. Join us on Discord: <https://discord.gg/TFFt4eqvub>
+
+For more information about this studio please refer to <https://dev.to/samzhangjy/erha-studio-a-studio-for-teens-360b>.
+
 [![samzhangjy's github stats](https://github-readme-stats.vercel.app/api?username=samzhangjy&show_icons=true&theme=dracula)](https://github.com/samzhangjy)
