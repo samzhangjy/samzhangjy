@@ -3,7 +3,7 @@
 - 🔭  I’m currently working on [BaiduSpider](https://github.com/BaiduSpider/BaiduSpider), a spider to crawl [Baidu](https://www.baidu.com)
 - 🌱  I’m currently learning Vue, Scrapy, Raspberry-Pi and more
 - 📫  How to reach me:
-  - Email: samzhang951@outlook.com
+  - Email: [samzhangjy@outlook.com](mailto:samzhangjy@outlook.com]
   - GitHub: <https://github.com/samzhangjy>
   - GitLab: <https://gitlab.com/samzhangjy>
   - Zhihu: <https://www.zhihu.com/people/samzhangjy>
