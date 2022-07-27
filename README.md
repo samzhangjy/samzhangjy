@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sam Zhang
 
-- 🔭  I’m currently working on algorithms, such as Graph, MST, Dijkstra, etc. Feel free to discuss these cool stuff with me!
-- 🌱  I’m currently learning Vue, Scrapy, React, NLP and more
+- 🔭  I’m currently working on algorithms, feel free to discuss these cool stuff with me!
+- 🌱  I’m currently learning Nextjs, React, Vue 3, web crawling & more!
 - 📫  How to reach me:
   - Email: [samzhangjy@outlook.com](mailto:samzhangjy@outlook.com)
   - GitHub: <https://github.com/samzhangjy>
@@ -13,6 +13,6 @@
 
 Feel free to send me Emails!
 
-P.S.: I'm still a student, though... So I might not be avilable on work days.
+I'm still a student, though... I might not be avilable on work days.
 
 [![samzhangjy's github stats](https://github-readme-stats.vercel.app/api?username=samzhangjy&show_icons=true&theme=dracula)](https://github.com/samzhangjy)
